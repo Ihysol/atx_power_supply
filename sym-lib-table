@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "atx_power_supply")(type "KiCad")(uri "${KIPRJMOD}/atx_power_supply.kicad_sym")(options "")(descr ""))
+)
